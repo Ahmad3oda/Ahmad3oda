@@ -15,7 +15,7 @@
 </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad3oda=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad3oda&layout=compact)
 <!--
 
 - 🔭 I’m currently working on ...

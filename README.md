@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hello! I'm Ahmad Ouda 👋
+--------
 
+![](https://komarev.com/ghpvc/?username=Ahmad3oda)
 <!--
 **Ahmad3oda/Ahmad3oda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

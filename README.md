@@ -3,7 +3,7 @@
 - 😄 I’m a 3rd year undergraduate pursuing a Bachelor in Computer Science and Artificial Intelligence.
 - ⚡ I'm interested in Problem Solving and actively competing in official ICPC competetions.
 - 🔭 I’m currently looking for Software Engineering Intern role(Backend).
-- ✍🏾 I’m currently learning {SpringBoot}.
+- ✍🏾 I’m currently learning <b>SpringBoot</b>.
 - 📫 How to reach me [ahmadouda383@gmail.com](mailto:ahmadouda383@gmail.com)
 
 ![](https://komarev.com/ghpvc/?username=Ahmad3oda)

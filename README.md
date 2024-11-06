@@ -1,6 +1,6 @@
 ### Hello! I'm Ahmad Ouda 👋
 --------
-- 😄 I’m a 3rd year undergraduate pursuing a Bachelor in Computer Science and Artificial Intelligence.
+- 😄 I’m a senior year undergraduate pursuing a Bachelor in Computer Science and Artificial Intelligence.
 - ⚡ I'm interested in Problem Solving and actively competing in official ICPC competetions.
 - 🔭 I’m currently looking for Software Engineering Intern role(Backend).
 - ✍🏾 I’m currently learning <b>SpringBoot</b>.

@@ -2,8 +2,8 @@
 --------
 - 😄 I’m a fresh graduate with Bachelor in Computer Science.
 - ⚡ I'm interested in Problem Solving and actively competing in official ICPC competetions.
-- 🔭 I’m currently looking for Software Engineering role(Backend).
-- 🤔 I’m currently learning <b>SpringBoot</b> & <b>React.js</b>.
+- 🔭 I’m a Junior Software Engineer @ Rehabitaire.
+- 🤔 I’m currently learning <b>Nest.js</b>.
 - 📫 How to reach me [ahmadouda383@gmail.com](mailto:ahmadouda383@gmail.com)
 
 ![](https://komarev.com/ghpvc/?username=Ahmad3oda)

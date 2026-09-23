@@ -20,8 +20,3 @@ I'm a Software Engineer with a strong backend focus and a passion for problem so
 <a href="https://codeforces.com/profile/Uchiha_Ouda" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ahmad3oda/Ahmad3oda/blob/main/cf.png" /> <source media="(prefers-color-scheme: light)" srcset="https://github.com/Ahmad3oda/Ahmad3oda/blob/main/cf.png" /> <img src="https://github.com/Ahmad3oda/Ahmad3oda/blob/main/cf.png" width="32" height="32" /> </picture> </a>
 </a>
 </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad3oda&layout=compact)
-
-
-![GitHub Snake](https://raw.githubusercontent.com/Ahmad3oda/Ahmad3oda/output/github-contribution-grid-snake.svg)

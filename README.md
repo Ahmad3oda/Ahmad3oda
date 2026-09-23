@@ -1,10 +1,14 @@
-### Hello! I'm Ahmad Ouda 👋
---------
-- 😄 I’m a fresh graduate with Bachelor in Computer Science.
-- ⚡ I'm interested in Problem Solving and actively competing in official ICPC competetions.
-- 🔭 I’m a Software Engineer @ Rehabitaire.
-- 🤔 I’m currently learning <b>ASP.NET & Angular</b>.
-- 📫 How to reach me [ahmadouda383@gmail.com](mailto:ahmadouda383@gmail.com)
+### 👋 Hi, I'm Ahmad Ouda
+
+I'm a Software Engineer with a strong backend focus and a passion for problem solving and competitive programming.
+
+- 💻 Software Engineer - NestJS / Angular
+- 🧠 Codeforces Expert
+- 🏆 ACPC Finalist 2025
+- 🎓 B.Sc. Computer Science - Helwan University, GPA: 3.79/4
+- 👨‍🏫 Former ICPC Helwan Community President
+- ⚡ 2000+ problems solved across competitive programming platforms
+
 
 ![](https://komarev.com/ghpvc/?username=Ahmad3oda)
 
@@ -18,14 +22,6 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad3oda&layout=compact)
-<!--
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![GitHub Snake](https://raw.githubusercontent.com/Ahmad3oda/Ahmad3oda/output/github-contribution-grid-snake.svg)
